@@ -1,0 +1,6 @@
+split terminal
+.\venv\Scripts\activate 
+
+python .\main_new.py   =         http://127.0.0.1:8050/
+
+python .\dashboard.py   =        http://127.0.0.1:8051/
